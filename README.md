@@ -16,9 +16,9 @@
 ---
 # System Capabilities
 
-    *** Technical Editor: A dedicated space for technical documentation and engineering notes. Architected for future expansion into a fully integrated development editor featuring auto-completion and advanced syntax parsing.
-    *** Paint Canvas: A minimal, low-latency rendering interface designed for rapid architectural sketching and visual brainstorming.
-    *** Diagram Builder: A node-based utility for constructing flowcharts, mapping state machines, and visualizing component interactions across an application.
+* Technical Editor: A dedicated space for technical documentation and engineering notes. Architected for future expansion into a fully integrated development editor featuring auto-completion and advanced syntax parsing.
+* Paint Canvas: A minimal, low-latency rendering interface designed for rapid architectural sketching and visual brainstorming.
+* Diagram Builder: A node-based utility for constructing flowcharts, mapping state machines, and visualizing component interactions across an application.
 
 
 # Architecture & Stack
@@ -137,16 +137,24 @@ hiku/
                 └── RegisterPage.tsx
 ```
 
-### // setup
+# Local Deployment
 
-To run the workspace locally, follow these steps:
 ```bash
-$ git clone [https://github.com/mainilotfi/hiku.git](https://github.com/mainilotfi/hiku.git)
-$ cd hiku
-$ npm install
-$ npm run dev
+
+git clone https://github.com/phantekzy/hiku
+cd hiku
+npm install
+npm run dev
+
 ```
 
-### // contributing
-hiku is still evolving, and there is much more to add to reach its full potential. You can help make the project better by contributing code or sharing your feedback.
+# Contributing
 
+Hiku is under active development. 
+Contributions focused on performance optimization, architectural improvements, or expanding the core feature set are welcome. 
+Please submit a pull request or open an issue to discuss proposed changes.
+
+
+# Contact
+Developed and maintained by Maini Lotfi.
+For inquiries, reach out via email: mainilotfi@gmail.com
