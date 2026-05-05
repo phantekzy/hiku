@@ -2,25 +2,17 @@
 node_modules/
 client/node_modules/
 
-# Build output
-dist/
-client/dist/
-build/
+# dist/
 
-# Environment — NEVER commit real .env
+# Environment
 .env
 .env.local
 .env.production
 .env.*.local
 
-# Prisma generated client (regenerated on install)
-node_modules/.prisma/
-
 # Logs
 *.log
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
 
 # OS
 .DS_Store
@@ -30,7 +22,9 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
-*.swo
 
 # Vercel
 .vercel
+
+# Client build 
+client/dist/
