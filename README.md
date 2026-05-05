@@ -23,15 +23,15 @@
 
 # Architecture & Stack
 
-    * Frontend: React, TypeScript, Tailwind CSS
+* Frontend: React, TypeScript, Tailwind CSS
 
-    * State Management: Zustand
+* State Management: Zustand
 
-    * Backend: Node.js, Express
+* Backend: Node.js, Express
 
-    * Database: PostgreSQL integrated via Prisma ORM
+* Database: PostgreSQL integrated via Prisma ORM
 
-    * Security: JWT-based authentication and secure routing
+* Security: JWT-based authentication and secure routing
 
 
 ### // tools
