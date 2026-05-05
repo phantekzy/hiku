@@ -5,8 +5,8 @@
 <div align="center">
   <h1>Hiku: Write, Draw, Diagram</h1>
   <br />
-  <img src="client/public/hiku_main.png" alt="Hiku Main" width="45%" style="margin-right: 10px;" />
-  <img src="client/public/hiku_draw.png" alt="Hiku Draw" width="45%" style="margin-left: 10px;" />
+  <img src="client/public/hiku_main.png" alt="Hiku Main" width="45%" style="margin-right: 50px;" />
+  <img src="client/public/hiku_draw.png" alt="Hiku Draw" width="45%" style="margin-left: 50px;" />
 </div>
 ---
 
