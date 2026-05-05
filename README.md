@@ -2,6 +2,17 @@
   <img src="client/public/hiku.png" alt="hiku logo" width="500" />
 </p> -->
 
+<div align="center">
+  <h1>Hiku: Write, Draw, Diagram</h1>
+  <br />
+  <img src="client/public/hiku_main.png" alt="Hiku Main" width="45%" />
+  <img src="client/public/hiku_draw.png" alt="Hiku Draw" width="45%" />
+</div>
+
+---
+
+
+
 # hiku // workspace
 
 hiku is a unified workspace designed to bring essential software development tools into one clean interface.
