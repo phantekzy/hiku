@@ -34,7 +34,7 @@
 * Security: JWT-based authentication and secure routing
 
 
-### // tools
+###  Tools
 
 * **Editor**: A dedicated space for technical documentation and notes. We are planning to expand this into a full development editor with features like auto completion and advanced syntax support.
 * **Paint Canvas**: A low latency interface for sketching architectural ideas and brainstorming visually.
@@ -42,15 +42,6 @@
 
 ---
 
-### // tech stack
-
-* **Frontend**: Built with React and TypeScript using Tailwind CSS for the interface.
-* **State**: Managed via Zustand for efficient data handling.
-* **Backend**: Node.js and Express server architecture.
-* **Database**: PostgreSQL with Prisma ORM.
-* **Auth**: Secure JWT based authentication.
-
----
 
 ## Project Structure
 
@@ -158,3 +149,7 @@ Please submit a pull request or open an issue to discuss proposed changes.
 # Contact
 Developed and maintained by Maini Lotfi.
 For inquiries, reach out via email: mainilotfi@gmail.com
+
+## Credits
+
+* **Special Thanks**: [Ferchouch](https://github.com/Ferchouch), for maintaining a professional workspace and choosing not to pee on the hardware, which allowed this project to happen.
