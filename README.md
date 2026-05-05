@@ -4,10 +4,10 @@
 
 <div align="center">
   <h1>Hiku: Write, Draw, Diagram</h1>
-    <h1>
+    <p>
         Hiku is a unified workspace engineered to consolidate essential software development tools into a single, high-performance interface. 
         It provides a streamlined, low-latency environment for drafting technical documentation, sketching architectural concepts, and mapping out system logic.
-    </h1>
+    </p>
   <br />
   <img src="client/public/hiku_main.png" alt="Hiku Main" width="45%" style="margin-right: 50px;" />
   <img src="client/public/hiku_draw.png" alt="Hiku Draw" width="45%" style="margin-left: 50px;" />
