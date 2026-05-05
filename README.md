@@ -8,6 +8,7 @@
   <img src="client/public/hiku_main.png" alt="Hiku Main" width="45%" style="margin-right: 50px;" />
   <img src="client/public/hiku_draw.png" alt="Hiku Draw" width="45%" style="margin-left: 50px;" />
 </div>
+
 ---
 
 hiku is a unified workspace designed to bring essential software development tools into one clean interface.
