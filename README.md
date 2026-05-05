@@ -152,4 +152,4 @@ For inquiries, reach out via email: mainilotfi@gmail.com
 
 ## Credits
 
-* **Special Thanks**: [Ferchouch](https://github.com/Ferchouch), for maintaining a professional workspace and choosing not to pee on the hardware, which allowed this project to happen.
+* Thanks to my lovely moody cat [Ferchouch](https://github.com/Ferchouch), for maintaining a professional workspace and choosing not to pee on the hardware, which allowed this project to happen.
