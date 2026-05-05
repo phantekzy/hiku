@@ -4,17 +4,35 @@
 
 <div align="center">
   <h1>Hiku: Write, Draw, Diagram</h1>
+    <h1>
+        Hiku is a unified workspace engineered to consolidate essential software development tools into a single, high-performance interface. 
+        It provides a streamlined, low-latency environment for drafting technical documentation, sketching architectural concepts, and mapping out system logic.
+    </h1>
   <br />
   <img src="client/public/hiku_main.png" alt="Hiku Main" width="45%" style="margin-right: 50px;" />
   <img src="client/public/hiku_draw.png" alt="Hiku Draw" width="45%" style="margin-left: 50px;" />
 </div>
 
 ---
+# System Capabilities
 
-hiku is a unified workspace designed to bring essential software development tools into one clean interface.
-It provides a streamlined environment for writing, drawing, and mapping out system logic.
+    *** Technical Editor: A dedicated space for technical documentation and engineering notes. Architected for future expansion into a fully integrated development editor featuring auto-completion and advanced syntax parsing.
+    *** Paint Canvas: A minimal, low-latency rendering interface designed for rapid architectural sketching and visual brainstorming.
+    *** Diagram Builder: A node-based utility for constructing flowcharts, mapping state machines, and visualizing component interactions across an application.
 
----
+
+# Architecture & Stack
+
+    *** Frontend: React, TypeScript, Tailwind CSS
+
+    *** State Management: Zustand
+
+    *** Backend: Node.js, Express
+
+    *** Database: PostgreSQL integrated via Prisma ORM
+
+    *** Security: JWT-based authentication and secure routing
+
 
 ### // tools
 
