@@ -1,6 +1,3 @@
-<!-- <p align="center">
-  <img src="client/public/hiku.png" alt="hiku logo" width="500" />
-</p> -->
 
 <div align="center">
   <h1>Hiku: Write, Draw, Diagram</h1>
@@ -11,6 +8,9 @@
   <br />
   <img src="client/public/hiku_main.png" alt="Hiku Main" width="45%" style="margin-right: 50px;" />
   <img src="client/public/hiku_draw.png" alt="Hiku Draw" width="45%" style="margin-left: 50px;" />
+  <br />
+  <img src="client/public/hiku_txt.png" alt="Hiku Text" width="45%" style="margin-right: 50px;" />
+  <img src="client/public/hiku_driag.png" alt="Hiku Diagram" width="45%" style="margin-left: 50px;" />
 </div>
 
 ---
