@@ -10,7 +10,7 @@
   <img src="client/public/hiku_draw.png" alt="Hiku Draw" width="45%" style="margin-left: 50px;" />
   <br />
   <img src="client/public/hiku-txt.png" alt="Hiku Text" width="45%" style="margin-right: 50px;" />
-  <img src="client/public/hiku_driag.png" alt="Hiku Diagram" width="45%" style="margin-left: 50px;" />
+  <img src="client/public/hiku_diag.png" alt="Hiku Diagram" width="45%" style="margin-left: 50px;" />
 </div>
 
 ---
